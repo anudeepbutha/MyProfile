@@ -39,13 +39,12 @@ body {
   padding: 0;
 }
 
-/* Centering container */
 .center {
   text-align: center;
   margin: 20px;
 }
 
-/* Headings */
+
 h2 {
   font-size: 28px;
   color: #222;
@@ -110,3 +109,4 @@ footer {
   background: #ffffff;
   padding: 20px;
 }
+
